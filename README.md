@@ -1,2 +1,2 @@
-# Capstone-proj
+# Capstone-proj initial
 Machine learning project
